@@ -1,6 +1,6 @@
 ;;;; razmernost.lisp
 
-(in-package #:areas)
+(in-package #:dims)
 
 (defparameter
     mnozitel
