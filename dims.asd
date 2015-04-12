@@ -6,5 +6,6 @@
   :license "Specify license here"
   :serial t
   :components ((:file "package")
-               (:file "dims")))
+               (:file "dims")
+	       (:file "razmernost")))
 
