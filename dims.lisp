@@ -1,3 +1,3 @@
 ;;;; dims.lisp
 
-(in-package #:dims)
+(in-package :dims)

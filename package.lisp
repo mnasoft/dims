@@ -1,6 +1,6 @@
 ;;;; package.lisp
 
-(defpackage #:dims
+(defpackage :dims
   (:use #:cl)
 
   )
